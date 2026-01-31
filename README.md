@@ -1,10 +1,10 @@
 # sistema-caixa-padaria
 
-Projeto desnvolvido em Puthon para consolidar conhecimento de lógica de programação, estruturas de dados (dicionários) e controle de fluxo.
+Projeto desenvolvido em Python para consolidar conhecimento de lógica de programação, estruturas de dados (dicionários) e controle de fluxo.
 
 ## Funcionalidades 
-- Cadastro de preodutos e preços.
-- Soma automática em tempo real.
+- Cadastro de produtos e preços.
+- Soma automática de intens.
 - Cálculo de troco em tempo real.
 - Validação de valor insuficiente.
 
